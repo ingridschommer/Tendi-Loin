@@ -70,9 +70,9 @@ const dApp = {
       { defaultAccount: this.accounts[0] }
     );
     // log that you created the contract
-    console.log("Contract object", this.marsContract);
+    console.log("Contract object", this.loinContract);
     // generate a boolean that tells us whether we are the admin or not
-    this.isAdmin = this.accounts[0] == await this.marsContract.methods.owner().call();
+    this.isAdmin = this.accounts[0] == await this.loinContract.methods.owner().call();
     // asynchronously call the update UI function
     await this.updateUI();
   }
