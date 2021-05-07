@@ -39,4 +39,4 @@ Rough Breakdown of Tasks:
     - Only if it is not too expensive 
 
     ## CLICK HERE TO CHECK OUT OUR DAPP!
-    [Frontend Code Link Text](frontend/index.html)
+    [Frontend Code Link Text](/frontend/index.html)
