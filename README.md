@@ -37,3 +37,6 @@ Rough Breakdown of Tasks:
     - Ropsten
 - Launch on Mainnet
     - Only if it is not too expensive 
+
+    ## CLICK HERE TO CHECK OUT OUR DAPP!
+    [Frontend Code Link Text](frontend/index.html)
