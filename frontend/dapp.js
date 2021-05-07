@@ -40,11 +40,19 @@ const dApp = {
   // change to stake
   stake: async function(event) {
     const wei = Number($(event.target).prev().val());
+    M.toast({html: wei});
     await this.loinContract.methods.deposit({from: this.accounts[0], value: wei}).on("receipt", async (receipt) => {
       M.toast({ html: "Deposit Complete! Refreshing UI..." });
       await this.updateUI();
     });
   },
+
+  hi: async function(event) {
+    rate = await this.loinContract.methods.yield_rate().call();
+    M.toast({ html: rate });
+    await this.updateUI();
+  },
+
   // change to withdraw
   withdraw: async function(event) {
     await his.loinContract.methods.withdraw().send({from: this.accounts[0]}).on("receipt", async (receipt) => {
