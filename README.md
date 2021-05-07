@@ -1,5 +1,7 @@
 # Project 3 Outline
 
+![Tendie Girl](https://github.com/ingridschommer/Project_3/blob/gh-pages/Pictures/IMG_20210421_214250_397.jpg)
+
 Project Title: 
 - Tendie Loin
 
@@ -40,3 +42,5 @@ Rough Breakdown of Tasks:
 
     ## CLICK HERE TO CHECK OUT OUR DAPP!
     [Frontend Code Link Text](/frontend/index.html)
+
+![Hawaii Girl](https://github.com/ingridschommer/Project_3/blob/gh-pages/Pictures/IMG_4926.jpg)
