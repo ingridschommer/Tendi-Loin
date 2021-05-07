@@ -1,8 +1,6 @@
 # Project 3 Outline
 
-<img src=“https://github.com/ingridschommer/Project_3/blob/gh-pages/Pictures/Screen%20Shot%202021-05-06%20at%209.00.11%20PM.png” alt=“Tendie_Girl” width=“800” class="inline"/>
-
-![Tendie Girl](https://github.com/ingridschommer/Project_3/blob/gh-pages/Pictures/IMG_20210421_214250_397.jpg)
+![Tendie Girl](https://raw.githubusercontent.com/ingridschommer/Project_3/gh-pages/Pictures/Screen%20Shot%202021-05-06%20at%209.00.11%20PM.png)
 
 Project Title: 
 - Tendie Loin
