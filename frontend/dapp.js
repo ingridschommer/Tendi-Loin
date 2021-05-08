@@ -33,23 +33,33 @@ const dApp = {
     console.log("updating UI");
     // refresh variables
     await this.collectVars();
-
     // hide or show admin functions based on contract ownership
     this.setAdmin();
   },
+
+  getEthBalance: async function(){
+    console.log("Getting Eth Balance");
+    await this.collectVars();
+    //$("#dapp-eth-balance").append({ html: this.ethBalance });
+    M.toast({ html: this.ethBalance });
+    await this.updateUI();
+  },
+
   // change to stake
   stake: async function(event) {
+    await this.collectVars();
     const wei = Number($(event.target).prev().val());
     M.toast({html: wei});
-    await this.loinContract.methods.deposit({from: this.accounts[0], value: wei}).on("receipt", async (receipt) => {
-      M.toast({ html: "Deposit Complete! Refreshing UI..." });
-      await this.updateUI();
-    });
+    await this.updateUI();
+    //await this.loinContract.methods.deposit({from: this.accounts[0], value: wei}).on("receipt", async (receipt) => {
+    //  M.toast({ html: "Deposit Complete! Refreshing UI..." });
+    //  await this.updateUI();
+    //});
   },
 
   hi: async function(event) {
-    rate = await this.loinContract.methods.yield_rate().call();
-    M.toast({ html: rate });
+    await this.collectVars();
+    M.toast({ html: this.yield_rate });
     await this.updateUI();
   },
 
