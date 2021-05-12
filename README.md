@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_20210421_214250_397.jpg" alt="Tendie Girl" width="700"/></p>
 
-==Team Members:== 
+==**Team Members:== 
 - Bowie
 - Ingrid
 - Kaleb
@@ -11,19 +11,21 @@
 - Max
 - Ryan
 
-**Project Description: 
+==**Project Description==
 - Tendie Loin will be a protocol that you can stake ETH and get LOIN on a yield curve that is voted on by LOIN holders.
 
-Objectives / Project Questions to Answer: 
+==**Objectives / Project Questions to Answer: 
 - Create a decentralized protocol that rewards users with LOIN for staking ETH. LOIN will be the value of the depositors time. AKA Temporal Premia.
 
-Data Sources (APIs, Datasets):
+==**Data Sources (APIs, Datasets):
 - Open Zepellin
 
-Rough Breakdown of Tasks:
+==**Rough Breakdown of Tasks:
+
 - Create Smart Contract that distributes LOIN tokens to ETH depositers 
     - Define Supple
     - Define ETH/LOIN Conversion Ratio
+    
 <p align="center">
 <img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Contract_Animation.gif" alt="smartContract" width="2000"/>
 </p>
@@ -44,4 +46,5 @@ Rough Breakdown of Tasks:
     ## CLICK HERE TO CHECK OUT OUR DAPP!
     [Frontend Code Link Text](frontend/index.html)
 
-![Hawaii Girl](https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_4926.jpg)
+<p align="center">
+<img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_4926.jpg" alt="Hawaii Girl" width="700"/></p>
