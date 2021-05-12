@@ -21,7 +21,6 @@ Objectives / Project Questions to Answer:
 
 Data Sources (APIs, Datasets):
 - Open Zepellin
-- Chainlink Ethereum API
 
 Rough Breakdown of Tasks:
 - Create Smart Contract that distributes LOIN tokens to ETH depositers 
