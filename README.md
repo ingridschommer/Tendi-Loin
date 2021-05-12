@@ -26,6 +26,10 @@ Rough Breakdown of Tasks:
 - Create Smart Contract that distributes LOIN tokens to ETH depositers 
     - Define Supple
     - Define ETH/LOIN Conversion Ratio
+<p align="center">
+<img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Contract_Animation.gif" alt="smartContract" width="800"/>
+</p>
+
 - Create inital yeild rate 
     - .04167
 - Create a way for LOIN token holders to vote on yield disbursement 
