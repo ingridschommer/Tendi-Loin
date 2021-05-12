@@ -1,7 +1,7 @@
 # Project 3 Tendie Loin
 
 <p align="center">
-<img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Tendie.png" alt="Tendie Girl" width="600"/></p>
+<img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Tendie.png" alt="Tendie Girl" width="500"/></p>
 
 **Team Members:**
 - Bowie
