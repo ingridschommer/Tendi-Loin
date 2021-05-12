@@ -43,8 +43,8 @@
 - Launch on Mainnet
     - Only if it is not too expensive 
 
-    <p align="center">## CLICK HERE TO CHECK OUT OUR DAPP!
-    [Frontend Code Link Text](frontend/index.html)</p>
+    <p align="center">## CLICK HERE TO CHECK OUT OUR DAPP!</p>
+    [Frontend Code Link Text](frontend/index.html)
 
 <p align="center">
 <img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_4926.jpg" alt="Hawaii Girl" width="700"/></p>
