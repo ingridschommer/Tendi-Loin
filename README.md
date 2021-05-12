@@ -1,9 +1,8 @@
-# Project 3 Outline
+# Project 3 Tendie Loin
 
 ![Tendie Girl](https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_20210421_214250_397.jpg)
 
-Project Title: 
-- Tendie Loin
+<img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_20210421_214250_397.jpg" alt="Tendie Girl" width="800"/>
 
 Team Members: 
 - Bowie
