@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_20210421_214250_397.jpg" alt="Tendie Girl" width="700"/></p>
 
-==**Team Members:== 
+**Team Members:
 - Bowie
 - Ingrid
 - Kaleb
@@ -11,7 +11,7 @@
 - Max
 - Ryan
 
-==**Project Description==
+**==Project Description==
 - Tendie Loin will be a protocol that you can stake ETH and get LOIN on a yield curve that is voted on by LOIN holders.
 
 ==**Objectives / Project Questions to Answer: 
