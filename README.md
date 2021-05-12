@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_20210421_214250_397.jpg" alt="Tendie Girl" width="700"/></p>
 
+<span style="background-color: #FFFF00">Team Members</span>
+
 <u>Team Members</u>: 
 - Bowie
 - Ingrid
