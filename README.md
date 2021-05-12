@@ -47,4 +47,4 @@
 [Frontend Code Link Text](frontend/index.html)
 
 <p align="center">
-<img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_4926.jpg" alt="Hawaii Girl" width="700"/></p>
+<img src="https://github.com/ingridschommer/Project_3/blob/main/Pictures/IMG_4926.jpg" alt="Hawaii Girl" width="500"/></p>
