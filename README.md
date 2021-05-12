@@ -27,7 +27,7 @@ Rough Breakdown of Tasks:
     - Define Supple
     - Define ETH/LOIN Conversion Ratio
 <p align="center">
-<img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Contract_Animation.gif" alt="smartContract" width="1500"/>
+<img src="https://github.com/ingridschommer/Tendi-Loin/blob/main/Pictures/Contract_Animation.gif" alt="smartContract" width="2000"/>
 </p>
 
 - Create inital yeild rate 
